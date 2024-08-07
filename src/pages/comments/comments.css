@@ -1,0 +1,10 @@
+#comments {
+    text-align: center;
+    background-image: url(../../components/images/sandstone.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    color: tan;
+    font-weight: bolder;
+  }
+  

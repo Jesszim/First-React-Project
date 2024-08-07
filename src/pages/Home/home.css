@@ -1,0 +1,10 @@
+#home{
+    background-image: url(../../components/images/caveview.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    color: tan;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+}

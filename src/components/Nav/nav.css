@@ -1,0 +1,21 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+#left{
+    display: flex;
+    align-items: center;
+}
+#logo{
+    color: goldenrod;
+}
+.link{
+    color: darkred;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background: linear-gradient(darkred, red,yellow);
+}
+.link:hover{
+    color:beige
+}
